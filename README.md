@@ -201,6 +201,13 @@ Sanity checks applied before submission:
 
 ---
 
+## Download Pretrained Weights
+Download from [Releases](https://github.com/your-username/your-repo/releases/tag/v1.0):
+- `G_final.pth` — Stage 2 GAN fine-tuned model
+- `G_stage1.pth` — Stage 1 L1 pretrained model
+
+
+
 ## License
 
 This project is for educational and competitive purposes. The dataset belongs to the competition organizers.
